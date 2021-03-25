@@ -48,7 +48,7 @@ Download the latest [here](https://github.com/CorentinJ/Real-Time-Voice-Cloning/
 ### 3. (Optional) Test Configuration
 Before you download any dataset, you can begin by testing your configuration with:
 
-`python demo_cli.py`
+`python demo_cli.py --test`
 
 If all tests pass, you're good to go.
 
